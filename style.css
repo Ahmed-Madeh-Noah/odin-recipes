@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, Verdana;
+  text-align: center;
+  padding: 1%;
+}
+
+body {
+    width: 80%;
+    margin: 0 auto;
+}
+
+h1 {
+  background-color: burlywood;
+  color: aliceblue;
+}
+
+h3 {
+  background-color: darkturquoise;
+  color: aliceblue;
+}
+
+li,
+lu {
+  text-align: left;
+}
+
+img {
+    width: 80%;
+    height: auto;
+}
