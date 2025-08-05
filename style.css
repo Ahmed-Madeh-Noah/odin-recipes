@@ -1,23 +1,29 @@
 * {
   box-sizing: border-box;
+  padding: 0.5%;
   font-family: Arial, Verdana;
   text-align: center;
-  padding: 1%;
+  font-size: 1.1em;
 }
 
 body {
-    width: 80%;
-    margin: 0 auto;
+  width: 75%;
+  margin: 0 auto;
+}
+
+h1,
+h3 {
+  color: aliceblue;
 }
 
 h1 {
   background-color: burlywood;
-  color: aliceblue;
+  font-size: 2em;
 }
 
 h3 {
   background-color: darkturquoise;
-  color: aliceblue;
+  font-size: 1.5em;
 }
 
 li,
@@ -26,6 +32,6 @@ lu {
 }
 
 img {
-    width: 80%;
-    height: auto;
+  width: 25%;
+  height: auto;
 }
